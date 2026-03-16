@@ -1,0 +1,20 @@
+h1 {
+    color:rgb(231, 51, 114);
+    font-family: "Times New Roman", Times, serif;
+}
+img {
+    color:blueviolet;
+    float: left;
+  width: 33%; /* three boxes (use 25% for four, and 50% for two, etc) */
+  padding: 50px; /* if you want space between the images */
+  height: 300px
+}
+body {
+  background-color: rgb(255, 214, 236);
+  color:crimson;
+  border-style: solid; 
+  border-color:aliceblue;
+  font-family: "Times New Roman", Times, serif;
+  font-size: x-large;
+ 
+}
